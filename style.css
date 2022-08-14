@@ -6,6 +6,9 @@
 
 body {
     background-image: url('images/bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
     font-family: 'Muli', sans-serif;
     display: flex;
     align-items: center;
